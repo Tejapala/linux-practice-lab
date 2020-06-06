@@ -1,8 +1,10 @@
 # linux-practice-lab
+
 Name: P.Tejapala
 Reg No.: 17MIS1082
 
 Question 1 : To use SL command
+
 code:
 sudo apt-get install sl      #command to install
 sl -v 				    #to check version
